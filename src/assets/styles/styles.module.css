@@ -1,0 +1,16 @@
+.arrows {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  margin-top: 10px;
+}
+
+.button {
+  padding: 10px 30px;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(250, 183, 193);
+  box-shadow: 0 0 5px 2px rgb(252, 140, 156);
+  color: rgb(248, 90, 114);
+}

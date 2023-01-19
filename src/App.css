@@ -1,0 +1,16 @@
+.app-wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  grid-template-areas: 
+  'h h'
+  'n c';
+  grid-gap: 3px;
+}
+
+.app-wrapper-content {
+  grid-area: c;
+  background-color: rgb(228, 227, 227); 
+  min-height: 900px;
+}

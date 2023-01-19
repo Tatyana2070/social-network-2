@@ -1,0 +1,18 @@
+.userPhoto {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-right: 100px;
+}
+
+.userBlock {
+  display: flex;
+  padding:  30px 10px;
+}
+
+.userName {
+  font-weight: bold;
+  color: rgb(70, 66, 66);
+  font-size: 18px;
+  margin-bottom: 30px;
+}

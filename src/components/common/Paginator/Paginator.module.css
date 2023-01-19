@@ -1,0 +1,22 @@
+.selectedPage {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.pageNumber {
+  margin: 5px;
+  border-bottom: 1px solid #000;
+}
+
+.pageNumber.selectedPage {
+  font-weight: bold;
+  border-color: black;
+}
+
+.img {
+  height: 20px;
+}
+
+.paginator {
+  display: flex;
+}
